@@ -9,14 +9,6 @@
     "type": "Integer",
     "value": 1
   },
-  "productionBreakDuration": {
-    "type": "Text",
-    "value": "00:01:00"
-  },
-  "productionIdealDuration": {
-    "type": "Text",
-    "value": "00:00:17.748"
-  },
   "refStation": {
     "type": "Relationship",
     "value": "urn:ngsi-ld:Station:8b960a8e-ab44-40e6-aaed-8499cb428d18"

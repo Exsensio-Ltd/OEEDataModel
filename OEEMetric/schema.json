@@ -9,9 +9,6 @@
       "$ref": "https://github.com/ts-exsensio/DataModel/blob/master/common-schema.json#/definitions/EntityIdentifierType"
     },
     {
-      "$ref": "https://github.com/ts-exsensio/DataModel/blob/master/common-schema.json#/definitions/TimeSpan"
-    },
-    {
       "properties": {
         "type": {
           "type": "string",
@@ -28,19 +25,8 @@
         },
         "goodProductCount": {
           "type": "integer",
-          "minimum": 0
-        },
-        "productionBreakDuration": {
-          "type": "string",
-          "examples": [
-            "00:00:17.748"
-          ]
-        },
-        "productionIdealDuration": {
-          "type": "string",
-          "examples": [
-            "00:00:17.748"
-          ]
+          "minimum": 0,
+          "default": 1
         }
       }
     }
@@ -49,8 +35,6 @@
     "id",
     "type",
     "createdTime",
-    "goodProductCount",
-    "productionBreakDuration",
-    "productionIdealDuration"
+    "goodProductCount"
   ]
 }
