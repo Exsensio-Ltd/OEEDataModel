@@ -16,15 +16,15 @@ The each model is represent the data that stored in the Fiware context broker, u
 
 ## Product
 
-This entity contains product information used as a relationship to product measurements data. More information [here](https://github.com/Exsensio-Ltd/OEEDataModel/blob/master/Product/doc/spec.md)
+This entity contains product information used as a relationship to product measurements data. More information [here](https://github.com/Exsensio-Ltd/OEEDataModel/blob/master/Product/doc/spec.md).
 
 ## Station
 
-This entity contains station information used as a relationship to product measurements data and information like breack and ideal duration related to the station. More information [here](https://github.com/Exsensio-Ltd/OEEDataModel/blob/master/Station/doc/spec.md)
+This entity contains station information used as a relationship to product measurements data and information like breack and ideal duration related to the station. More information [here](https://github.com/Exsensio-Ltd/OEEDataModel/blob/master/Station/doc/spec.md).
 
 ## OEE Metric
 
-This entity contains several measurements used to calculate the [overall equipment effectiveness (OEE)](https://www.oee.com/). More information on OEE and how the calculation is performed can be found here. More information [here](https://github.com/Exsensio-Ltd/OEEDataModel/blob/master/OEEMetric/doc/spec.md)
+This entity contains several measurements used to calculate the [overall equipment effectiveness (OEE)](https://www.oee.com/). More information on OEE and how the calculation is performed can be found here. More information [here](https://github.com/Exsensio-Ltd/OEEDataModel/blob/master/OEEMetric/doc/spec.md).
 
 ## License
 
